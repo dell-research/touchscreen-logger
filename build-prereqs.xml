@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <property environment="env" />
+
+    <target name="genversion">
+        <exec executable="bash">
+            <arg value="scripts/versiondate.sh" />
+        </exec>
+    </target>
+
+    <target name="all" depends="genversion" />
+</project>

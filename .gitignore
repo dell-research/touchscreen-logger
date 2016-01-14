@@ -1,0 +1,14 @@
+/gen/
+/bin/
+/obj/
+/.externalToolBuilders/
+/out
+/.idea/
+
+.project
+.classpath
+
+touchscreen-logger.iml
+
+libs/jtar-1.1.jar
+libs/android-support-v4.jar

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swipe Data Logger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="monitor">Monitor</string>
+    <string name="extra_value_name">VALUE</string>
+    <string name="action_status_message">com.dell.research.touchscreenlogger.STATUS_MESSAGE</string>
+    <string name="notification_title">Touchscreen Logger</string>
+    <string name="email_to">drsecgroup@gmail.com</string>
+    <string name="email_subject">Touchscreen Logger (%s)</string>
+    <string name="email_body">Attached are touchscreen activity log files and a device information summary. Please review these files before sending. You may optionally set additional recipients or CC addresses for your records.</string>
+    <string name="action_status_service">com.dell.research.touchscreenlogger.STATUS_SERVICE</string>
+    <string name="output_directory">SwipeDataLogger</string>
+    <string name="extra_value_success">SUCCESS</string>
+    <string name="extra_value_started">STARTED</string>
+    <string name="about_title">About Device</string>
+</resources>
